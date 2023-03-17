@@ -42,13 +42,13 @@ Overall, this command runs NVIDIA's PyTorch image to run Jupyter Notebook inside
 
 > keep a record of the token
 > 
-> ![1](image/Screenshot from 2023-03-17 17-46-06.png)
+> ![1](./image/Screenshot from 2023-03-17 17-46-06.png)
 > 
 > Copy and paste the URL and PORT to the Jupyter Server settings under 'Jupyter Servers
-> ![2](image/Screenshot from 2023-03-17 17-48-36.png)
+> ![2](./image/Screenshot from 2023-03-17 17-48-36.png)
 > 
 > After adding the URL and PORT to the Jupyter Server settings and clicking 'Connect', you will be prompted to enter the token.
 > 
 > You can use the following code to check if the GPU device is available and device name:
 
-> ![3](image/Screenshot from 2023-03-17 17-53-22.png)
+> ![3](./image/Screenshot from 2023-03-17 17-53-22.png)
